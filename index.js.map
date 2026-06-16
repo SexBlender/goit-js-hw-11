@@ -1,1 +1,1 @@
-{"version":3,"file":"index.js","sources":[],"sourcesContent":[],"names":[],"mappings":""}
+{"version":3,"file":"index.js","sources":["../src/js/pixabay-api.js","../src/js/render-functions.js"],"sourcesContent":["console.log(123);\n","console.log('Hello, world!');\n"],"names":[],"mappings":"ssBAAA,QAAQ,IAAI,GAAG,ECAf,QAAQ,IAAI,eAAe"}
